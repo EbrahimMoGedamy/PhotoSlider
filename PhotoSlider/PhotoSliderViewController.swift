@@ -1,5 +1,5 @@
 //
-//  SceneDelegate.swift
+//  PhotoSliderViewController.swift
 //  PhotoSlider
 //
 //  Created by Ebrahim  Mo Gedamy on 11/7/20.
